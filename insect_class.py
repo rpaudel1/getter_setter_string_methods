@@ -1,4 +1,4 @@
-# insect_class.py
+# insect_class.py is a module
 class Insects:
 	# initializer method
 	def __init__(self, wings, eyes, legs):
